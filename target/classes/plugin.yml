@@ -1,0 +1,8 @@
+name: MiPrimerPlugin
+version: 1.0
+main: com.thomas.miplugin.Main
+api-version: 1.20
+commands:
+  hola:
+    description: Saluda al jugador
+    usage: /hola
